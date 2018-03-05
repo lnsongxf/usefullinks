@@ -2,6 +2,10 @@
 
 These are some useful links that I have found while surfing the web. Please feel free to use them!
 
+## Fortran
+
+Hans Fehr and Fabian Kindermann are publishing a [new textbook](https://www.ce-fortran.com/) on Fortran for computational economics. Their website contains toolboxes useful, particularly for solving macro models.
+
 ## MATLAB
 
 I often use MATLAB for simple dynamic programming, and for empirical asset pricing analyses. I share some programs that I have found useful at the [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) here.
