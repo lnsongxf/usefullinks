@@ -10,6 +10,10 @@ Hans Fehr and Fabian Kindermann are publishing a [new textbook](https://www.ce-f
 
 I often use MATLAB for simple dynamic programming, and for empirical asset pricing analyses. I share some programs that I have found useful at the [MATLAB Central File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/) here.
 
+### Matlab2tikz
+
+[This program](https://www.mathworks.com/matlabcentral/fileexchange/22022-matlab2tikz-matlab2tikz) converts MATLAB®/Octave figures to TikZ/pgfplots figures for smooth integration into LaTeX.
+
 ### RGB
 
 The colour coding feature [here](https://www.mathworks.com/matlabcentral/fileexchange/46872-intuitive-rgb-color-values-from-xkcd) allows one to tailor plots and figures as needed.
