@@ -1,0 +1,34 @@
+http://www.dynare.org/documentation-and-support/examples
+
+. Fernandez-Villaverde RBC models
+
+A collection of RBC models by Jesus Fernandez-Villaverde, contained in the following archive: rbc.zip
+
+Here is a short description of each model file:
+
+    rbc.mod: vanilla RBC model described in rbc.pdf
+    rbc_cooley.mod: RBC model in first chapter of Cooley, "Frontiers...." Identical calibration than Ed and Tom, reproduces their table.
+    rbc_indivisible.mod: RBC with indivisible labor.
+    rbc_cu.mod: RBC with changing capacity utilization of capital.
+    rbc_indivisible_cu.mod: RBC with changing capacity utilization and indivisible labor. This reduces the s.d. of the shock needed to account for 70% of U.S. fluctuactions from 0.007 to 0.002. Since the secular growth rate per semester is 0.004, that means we will only observe negative growth of productivity 5% of the quarters.
+    rbc_home.mod: RBC with home production.
+    rbc_investment.mod: Model of investment-specific technological change as described for example in Greenwood, Hercowitz and Krusell (EER, 2000).
+    rbc_investment1.mod: Model as above plus indivisible labor.
+    rbc_investment2.mod: Model as above plus variable capacity utilization.
+    rbc_monopolistic.mod: Model with monopolistic competition
+
+F. Schorfheide (2000)
+
+fs2000.mod replicates the estimation of the CIA model from Frank Schorfheide (2000) "Loss function-based evaluation of DSGE models" Journal of Applied Econometrics, 15, 645-670.
+
+The data in fsdat.m are the ones provided on Schorfheide's web site with the programs.
+
+You need to have fsdat.m in the same directory as this file.
+
+This file replicates:
+
+    the posterior mode as computed by Frank's Gauss programs
+    the parameter mean posterior estimates reported in the paper
+    the model probability (harmonic mean) reported in the paper
+
+The equations are taken from J. Nason and T. Cogley (1994) "Testing the implications of long-run neutrality for monetary business cycle models" Journal of Applied Econometrics, 9, S37-S70. Note that there is an initial minus sign missing in equation (A1), p. S63.
