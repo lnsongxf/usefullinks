@@ -25,3 +25,14 @@ This [Progress bar](https://www.mathworks.com/matlabcentral/fileexchange/6922-pr
 ## Dynare
 
 I sometimes use [Dynare](http://www.dynare.org/) to solve macroeconomic models. One can find example files [here](http://www.dynare.org/documentation-and-support/examples).
+
+
+# General Economics and Finance
+
+## Macroeconomics
+
+Jesus Feranndez-Villaverde's [website](http://economics.sas.upenn.edu/~jesusfv/teaching.html) contains good series of lecture notes.
+
+## Finance
+
+John Cochrane's PhD-level [empirical asset pricing lecture notes](http://faculty.chicagobooth.edu/john.cochrane/teaching/Empirical_Asset_Pricing/#Documents).
