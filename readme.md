@@ -31,7 +31,7 @@ I sometimes use [Dynare](http://www.dynare.org/) to solve macroeconomic models. 
 
 ## Macroeconomics
 
-Jesus Feranndez-Villaverde's [website](http://economics.sas.upenn.edu/~jesusfv/teaching.html) contains good series of lecture notes.
+Jesus Fernandez-Villaverde's [website](http://economics.sas.upenn.edu/~jesusfv/teaching.html) contains good series of lecture notes.
 
 ## Finance
 
