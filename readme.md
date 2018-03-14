@@ -35,4 +35,10 @@ Jesus Fernandez-Villaverde's [website](http://economics.sas.upenn.edu/~jesusfv/t
 
 ## Finance
 
+### Corporate Finance
+
+Matt Gormley has great PhD-level empirical corporate finance notes on his [website](http://www.gormley.info/phd-notes.html). Also check Roberts and Whited's handbook notes, published on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748604)
+
+### Asset Pricing
+
 John Cochrane's PhD-level [empirical asset pricing lecture notes](http://faculty.chicagobooth.edu/john.cochrane/teaching/Empirical_Asset_Pricing/#Documents).
