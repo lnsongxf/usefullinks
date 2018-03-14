@@ -22,6 +22,12 @@ The colour coding feature [here](https://www.mathworks.com/matlabcentral/fileexc
 
 This [Progress bar](https://www.mathworks.com/matlabcentral/fileexchange/6922-progressbar) is particularly useful when running long loops, particularly when one wants to enjoy a cup of tea.
 
+## LaTeX
+
+### Metropolis theme
+
+This modern [LaTeX theme](https://github.com/matze/mtheme) is very elegant and useful.
+
 ## Dynare
 
 I sometimes use [Dynare](http://www.dynare.org/) to solve macroeconomic models. One can find example files [here](http://www.dynare.org/documentation-and-support/examples).
