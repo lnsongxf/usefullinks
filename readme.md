@@ -26,7 +26,6 @@ This [Progress bar](https://www.mathworks.com/matlabcentral/fileexchange/6922-pr
 
 I sometimes use [Dynare](http://www.dynare.org/) to solve macroeconomic models. One can find example files [here](http://www.dynare.org/documentation-and-support/examples).
 
-
 # General Economics and Finance
 
 ## Macroeconomics
@@ -37,7 +36,7 @@ Jesus Fernandez-Villaverde's [website](http://economics.sas.upenn.edu/~jesusfv/t
 
 ### Corporate Finance
 
-Matt Gormley has great PhD-level empirical corporate finance notes on his [website](http://www.gormley.info/phd-notes.html). Also check Roberts and Whited's handbook notes, published on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748604)
+Todd Gormley has great PhD-level empirical corporate finance notes on his [website](http://www.gormley.info/phd-notes.html). Also check Roberts and Whited's handbook notes, published on SSRN [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1748604)
 
 ### Asset Pricing
 
