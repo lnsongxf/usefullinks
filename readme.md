@@ -41,3 +41,7 @@ Todd Gormley has great PhD-level empirical corporate finance notes on his [websi
 ### Asset Pricing
 
 John Cochrane's PhD-level [empirical asset pricing lecture notes](http://faculty.chicagobooth.edu/john.cochrane/teaching/Empirical_Asset_Pricing/#Documents).
+
+## Data
+
+Read CPS Data with Stata using the code [here](http://www.nber.org/data/cps_progs.html).
